@@ -1,6 +1,6 @@
 # shredDisk
 
-main.py making erasing files from disks by shred'ing it, rm.py just rm'ing it
+shredDisk.py making erasing files from disks by shred'ing it, rmDisk.py just rm'ing it
 
 A lot of testing will be in the way
 
